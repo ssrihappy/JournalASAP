@@ -1,5 +1,7 @@
-# JournalASAP
-Crawling the ASAP journals
+# **JournalASAP**
+## **Easy to subscribe** and follow-up the information of latest articles  
+Crawling the ASAP journals (ACS only supported)  
+https://pubs.acs.org/
 
 ![result](./img/result.PNG)
 ---
@@ -13,10 +15,10 @@ Crawling the ASAP journals
 ---
 
 ### Lib installation
-> pip install selenium  
-> pip install pandas  
-> pip install bs4  
-> pip install requests  
+>     pip install selenium  
+>     pip install pandas  
+>     pip install bs4  
+>     pip install requests  
 
 ### The version of Chromedriver and Chrome browser must be matched (v94)  
 download chromedriver
