@@ -17,7 +17,7 @@ toc = []
 doi = []
 data = []
 pdf = []
-count = 1  # 문헌 순번
+count = 1 
 
 num = int(input("Please enter the number of journals : ", ))
 
