@@ -19,7 +19,8 @@ https://pubs.acs.org/
 >     pip install pandas  
 >     pip install bs4  
 >     pip install requests  
->     
+>     pip install openpyxl
+>     pip install xlsxwriter
 
 ### The version of Chromedriver and Chrome browser must be matched (v94)  
 download chromedriver
