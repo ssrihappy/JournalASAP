@@ -3,7 +3,7 @@
 Crawling the ASAP journals (ACS only supported)  
 https://pubs.acs.org/
 
-![result](./img/result.PNG)
+![input](./img/v1.1.PNG)
 ---
 ### How to Use
 1. Enter the journal information in journal_url.xlsx file
@@ -11,7 +11,7 @@ https://pubs.acs.org/
 2. Run asap.py
 3. Enter the number of journal
 4. Review and Enjoy the "summary.xlsx" 
-![input](./img/v1.1.PNG)
+
 ---
 
 ### Lib installation
