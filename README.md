@@ -1,4 +1,4 @@
-# **JournalASAP**
+# **ACS Journal Crawler v1.1**
 ## **Easy to subscribe** and follow-up the information of latest articles  
 Crawling the ASAP journals (ACS only supported)  
 https://pubs.acs.org/
@@ -11,7 +11,7 @@ https://pubs.acs.org/
 2. Run asap.py
 3. Enter the number of journal
 4. Review and Enjoy the "summary.xlsx" 
-
+![input](./img/v1.1.PNG)
 ---
 
 ### Lib installation
@@ -19,6 +19,7 @@ https://pubs.acs.org/
 >     pip install pandas  
 >     pip install bs4  
 >     pip install requests  
+>     
 
 ### The version of Chromedriver and Chrome browser must be matched (v94)  
 download chromedriver
